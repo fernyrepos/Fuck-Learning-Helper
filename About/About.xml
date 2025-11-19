@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
-    <name>Fuck-Learning-Helper</name>
+    <name>Fuck Learning Helper</name>
     <author>ferny</author>
     <packageId>ferny.FuckLearningHelper</packageId>
-    <description></description>
+    <description>Deletes the learning helper from the game.</description>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>
