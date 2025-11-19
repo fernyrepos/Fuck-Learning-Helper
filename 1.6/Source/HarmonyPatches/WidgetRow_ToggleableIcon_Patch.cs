@@ -11,7 +11,6 @@ namespace FuckLearningHelper
         {
             if (tex == TexButton.ShowLearningHelper)
             {
-                toggleable = false;
                 return false;
             }
             return true;
